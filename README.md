@@ -4,6 +4,7 @@ This Data Science Project seeks to reconstruct a Metro Map from a dataset that c
 Take-home test
 ### Introduction
 You are provided with the following dataset:
+
 mrt_trips_sampled.csv: A list of MRT train journeys on a particular day in Singapore.
 
 Each line in the file consists of five fields: (a) a unique journey ID, (b) destination station, (c) time when the commuter exited the gantry, (d) origin station and (e) time when the commuter entered the gantry.
