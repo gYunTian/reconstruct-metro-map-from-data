@@ -2,6 +2,7 @@
 This Data Science Project seeks to reconstruct a Metro Map from a dataset that consists of many faulty and erroneous samples
 
 Take-home test
+
 ### Introduction
 You are provided with the following dataset:
 
@@ -29,7 +30,5 @@ You may use any mode of presentation (e.g. Jupyter notebook or slides) to delive
 1. Any code you wrote to answer the questions. We should be able to run your code, and it should complete within a reasonable runtime. Please provide instructions for running and using your code on our systems, assuming some level of technical proficiency.
 
 2. Outline of your approach to the problems and results you obtained. Please include well-chosen charts to communicate data insights and messages as intuitively as possible.
-You will need to walk us through this when you meet us for the face-to-face interview.
 
-Please send the deliverables to @open.gov.sg within 7 days of receiving this email.
 
