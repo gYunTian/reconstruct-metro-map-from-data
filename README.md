@@ -10,6 +10,7 @@ mrt_trips_sampled.csv: A list of MRT train journeys on a particular day in Singa
 
 Each line in the file consists of five fields: (a) a unique journey ID, (b) destination station, (c) time when the commuter exited the gantry, (d) origin station and (e) time when the commuter entered the gantry.
 
+
 ### Questions
 Your task is to write programs to answer the following questions:
 
@@ -19,7 +20,9 @@ Your task is to write programs to answer the following questions:
  
  3. Suppose a commuter wants to board a train at Clementi Station at 9:25 am and alight at Kallang Station. Can you determine the number of people in the train at every station along the path from Clementi to Kallang starting from 9:25 am? You may refer to the actual MRT network from official sources.
 
-Please complete this exercise within 7 days. If you need any clarification, please do not hesitate to contact us.
+
+Please complete this exercise within 7 days.
+
 
 Some of these questions are <b>difficult</b>. Hence, it would be a good idea to break up the problem into easier sub-problems. If you are not able to solve the problem, do show us your plan of how to solve the problem, as well as any intermediate results and code you might have worked out.
 
